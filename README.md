@@ -7,7 +7,7 @@ The Iris dataset contains the following features:
 
 Sepal length
 Sepal width
-Petal length
+Petal lengtH
 Petal width
 
 And the target variable:
